@@ -49,5 +49,8 @@ Seaborn Library:Used for creating more advanced and visually appealing statistic
 
 OpenWeatherMap API:The external API that provides the weather data.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/5e414f4d-3986-4e5f-a193-37401585b1c5)
+
  
 
